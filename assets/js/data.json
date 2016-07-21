@@ -1,0 +1,19 @@
+{
+	"data":[{
+			"product":"first",
+			"description": "good",
+			"cost": 50
+		},{
+			"product":"second",
+			"description": "bad",
+			"cost": 33
+		},{
+		"product":"third",
+			"description": "Nothing",
+			"cost": 55
+		},{
+			"product":"Nice",
+			"description": "My company",
+			"cost": 66
+	}]
+}
